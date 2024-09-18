@@ -45,6 +45,3 @@ Highly motivated with a strong foundation in AI and machine learning techniques.
 - **LinkedIn:** [linkedin.com/in/akash-ns-b27065289](https://www.linkedin.com/in/akash-ns-b27065289)
 - **GitHub:** [github.com/Akashns007](https://github.com/Akashns007)
 - **Email:** akashns990033@gmail.com
-## Hi there 👋
-
-
