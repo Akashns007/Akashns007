@@ -1,47 +1,48 @@
-# 👋 Hello, I'm Akash Ningaiah Sthavaramatha!
+<h3 align="center">A passionate AI & ML engineer from India</h3>
 
-🔭 **Engineering Student** specializing in **Artificial Intelligence & Machine Learning**  
-🌱 Currently a B.E student at **Don Bosco Institute of Technology** (2021-2025)  
-🎓 Expected Graduation: **2024** | **CGPA:** 8.4  
-💡 Passionate about AI and eager to contribute to cutting-edge research projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/akash-ns-b27065289" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="https://github.com/Akashns007" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="40" width="40" />
+  </a>
+  <a href="mailto:akashns990033@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="email" height="40" width="40" />
+  </a>
+</p>
 
-## 🌟 Summary
-Highly motivated with a strong foundation in AI and machine learning techniques. I'm seeking opportunities to apply my problem-solving and critical thinking skills to develop innovative solutions in the field of AI.
-
-## 🛠 Skills & Abilities
-- **Soft Skills:** Problem Solving 🤔 | Critical Thinking 💡 | Creativity 🎨
-- **Languages:** Python 🐍 | C | C++ | Java ☕ | SQL 🛢️
-- **Platforms:** Jupyter Notebook 📓 | Visual Studio Code 🖥️ | Eclipse 🌑 | NetBeans 🌟
-- **Frameworks & Tools:** Matplotlib 📊 | Scikit-learn 🤖 | Pandas 🐼 | NumPy 🔢 | TensorFlow 🧠
-
-## 💼 Experience
-- **Goldman Sachs SWE Virtual Experience (Forage) - 2024**
-  - Assessed IT security as a governance analyst 🔒
-  - Identified outdated password hashing algorithms 🕵️‍♂️
-  - Proposed security improvements via password policy memo 📜
-
-- **J.P. Morgan SWE Virtual Experience (Forage) - 2024**
-  - Built development environment for a web application 🌐
-  - Fixed code to ensure accurate application output 🔧
-
-- **Mastercard Cybersecurity Virtual Experience (Forage) - 2024**
-  - Analyzed security threats as a Security Awareness Analyst 🚨
-  - Identified training gaps and implemented security training programs 🎓
-
-## 💻 Projects
-- **V-DUB:** Video dubbing software using Googletrans, Moviepy, Pydub, etc. 🎥
-- **Retrieval Augmented Generation PDF Parser:** Utilized LLMs like Mistral7B to enhance parsing 📄
-- **Latest News Aggregator:** Scraped news from channels like CNN and TimesNow 📰
-- **Human Stress Analysis Web App:** Analyzed and recommended solutions for stress management 🧘
-- **Telco Customer Churn Analysis:** Conducted analysis to predict customer churn 📊
-
-## 📜 Certifications
-- **Harvard CS50P:** Introduction to Programming with Python 🐍
-- **Harvard CS50AI:** Introduction to AI 🤖
-- **Elements of AI:** Basics of AI 🌐
-- **Stanford University (Coursera):** Supervised Machine Learning, Advanced Algorithms 📚
-
-## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/akash-ns-b27065289](https://www.linkedin.com/in/akash-ns-b27065289)
-- **GitHub:** [github.com/Akashns007](https://github.com/Akashns007)
-- **Email:** akashns990033@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+</p>
