@@ -1,5 +1,5 @@
 <h1>👋 Hello, I'm Akash Ningaiah Sthavaramatha</h1>
-<h2 align="center">A Passionate AI & ML Engineer from India</h2>
+<h2 align="center">A Passionate AI & ML Engineer </h2>
 
 <h3>💼 Summary</h3>
 <p>Highly motivated Engineering student with a strong foundation in Artificial Intelligence (AI) and Machine Learning techniques. Eager to contribute to cutting-edge research projects by applying problem-solving and critical thinking skills to develop innovative solutions.</p>
