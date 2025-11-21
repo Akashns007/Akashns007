@@ -2,7 +2,7 @@
 <h2 align="center">A Passionate AI & ML Engineer </h2>
 
 <h3>💼 Summary</h3>
-<p>Highly motivated Engineering student with a strong foundation in Artificial Intelligence (AI) and Machine Learning techniques. Eager to contribute to cutting-edge research projects by applying problem-solving and critical thinking skills to develop innovative solutions.</p>
+<p>Highly motivated Engineer with a strong foundation in Artificial Intelligence (AI) and Machine Learning techniques. Eager to contribute to cutting-edge research projects by applying problem-solving and critical thinking skills to develop innovative solutions.</p>
 
 <h3>💻 Experience</h3>
 <ul>
@@ -36,7 +36,7 @@
     <li>Soft Skills: Problem Solving 🤔, Critical Thinking 💡, Creativity 🎨</li>
     <li>Languages: Python 🐍, C, C++, Java ☕, SQL 🛢️</li>
     <li>Platforms: Jupyter Notebook 📓, Visual Studio Code 🖥️, Eclipse 🌑, NetBeans 🌟</li>
-    <li>Frameworks & Tools: Matplotlib 📊, Scikit-learn 🤖, Pandas 🐼, NumPy 🔢, TensorFlow 🧠</li>
+    <li>Frameworks & Tools: Matplotlib 📊, Scikit-learn 🤖, Pandas 🐼, NumPy 🔢, TensorFlow 🧠, Google ADK, OPENAI SDK</li>
 </ul>
 
 <h3>🌐 Connect with Me</h3>
