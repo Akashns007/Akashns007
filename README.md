@@ -6,6 +6,7 @@
 
 <h3>💻 Experience</h3>
 <ul>
+    <li><strong>ThoughtClan Technologies - 2025:</strong>As an AI engineer, Built AI Agents for Manufacturing execution systems(MES).Worked on R&D and developed end-to-end POC projects</li>
     <li><strong>Goldman Sachs SWE Virtual Experience (Forage) - 2024:</strong> Assessed IT security as a governance analyst. Identified outdated password hashing algorithms and proposed security improvements via a password policy memo.</li>
     <li><strong>J.P. Morgan SWE Virtual Experience (Forage) - 2024:</strong> Built the development environment for a web application and fixed code to ensure accurate application output.</li>
     <li><strong>Mastercard Cybersecurity Virtual Experience (Forage) - 2024:</strong> Analyzed security threats as a Security Awareness Analyst and implemented security training programs to address training gaps.</li>
